@@ -17,3 +17,4 @@ Pode usar
 - O `not` transforma algo falso em verdadeiro e o contrário
 - Use f'passe_valores aqui entre {valores} para interpolar'
 - `elif` é o `else if`
+- Não se usa chaves para definir blocos e sim a identação
