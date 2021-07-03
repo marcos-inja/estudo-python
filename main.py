@@ -19,6 +19,18 @@
 # import operadores.ternario
 
 # import controle.if_1
+# import controle.if_2
 # import controle.for_1
 # import controle.while_1
 # import controle.outros_exemplos
+
+# duas formas de chamar a mesma função:
+# from funcoes import basico
+# basico.saudacao()
+from funcoes.basico import saudacao, saudacao_manha, soma_e_mult
+# nome = input("Diga um nome: ")
+# saudacao(nome)
+# idade = 18
+# saudacao_manha(nome, idade)
+# saudacao_manha()
+print(soma_e_mult(2,2,4))

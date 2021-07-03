@@ -18,3 +18,4 @@ Pode usar
 - Use f'passe_valores aqui entre {valores} para interpolar'
 - `elif` é o `else if`
 - Não se usa chaves para definir blocos e sim a identação
+- A nomeclatura das palavras em python é assim: nome_da_variavel
