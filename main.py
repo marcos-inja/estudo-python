@@ -21,4 +21,5 @@
 # import controle.if_1
 # import controle.for_1
 # import controle.while_1
-import controle.outros_exemplos
+# import controle.outros_exemplos
+import atvs.atividades 

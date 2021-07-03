@@ -38,9 +38,7 @@ produto = {
 for valor in produto.values():  # Pega só os valores
     print(valor)
 
-print('')  #Dá um espaço
+print('')  # Dá um espaço
 
 for atrib in produto.keys():  # Pega só os atributos
     print(atrib)
-
-

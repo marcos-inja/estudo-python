@@ -9,5 +9,5 @@ nums[0] = 100
 nums.insert(1, -100) # pode usar o insert para fazer o mesmo que o de cima, não vejo usos ainda kkk
 
 print(nums[3])
-print(nums[-1]) # usa para pegar de trás pra frente
+print(nums[-1]) # usa o sinal de menos para pegar de trás pra frente
 print(nums)

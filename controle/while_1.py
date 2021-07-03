@@ -26,5 +26,5 @@ z = 10
 
 while z:
     print(z)
-    time.sleep(0.4)  #Vai aparcer um numero a cada 0.4s
+    time.sleep(0.4)  #Vai aparecer um numero a cada 0.4s
     z -= 1
