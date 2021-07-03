@@ -40,3 +40,11 @@
 # b = soma_e_mult(a=3, b=4, c=3)
 
 # print(a + b)
+
+from funcoes import args
+
+# s = args.soma(1, 2, 7, 8, 9, 10)
+# print(s)
+
+resultado = args.resultado_final(nome = 'Marcos', nota = 5)
+print(resultado)
