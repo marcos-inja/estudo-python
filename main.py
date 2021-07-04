@@ -25,26 +25,22 @@
 # import controle.outros_exemplos
 
 # duas formas de chamar a mesma função:
-
 # from funcoes import basico
 # basico.saudacao()
-
 # from funcoes.basico import saudacao, saudacao_manha, soma_e_mult
 # nome = input("Diga um nome: ")
 # saudacao(nome)
 # idade = 18
 # saudacao_manha(nome, idade)
 # saudacao_manha()
-
 # a = soma_e_mult(a=2, c=3)  # passando assim posso pular um valor haha
 # b = soma_e_mult(a=3, b=4, c=3)
-
 # print(a + b)
 
-from funcoes import args
-
+# from funcoes import args
 # s = args.soma(1, 2, 7, 8, 9, 10)
 # print(s)
+# resultado = args.resultado_final(nome = 'Marcos', nota = 5)
+# print(resultado)
 
-resultado = args.resultado_final(nome = 'Marcos', nota = 5)
-print(resultado)
+from funcoes import funcional
