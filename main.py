@@ -44,4 +44,7 @@
 # print(resultado)
 
 # from funcoes import funcional
-from funcoes import map_reduce
+# from funcoes import map_reduce
+from funcoes import lambdas_filter
+
+

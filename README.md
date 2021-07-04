@@ -23,3 +23,4 @@ Pode usar
 
 ## Dicas
 - É mais desejável que a função retorne alguma coisa do que fazer um print dentro dela
+- A lambda é uma função anônima de uma linha, ele sempre retorna algo
