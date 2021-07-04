@@ -35,7 +35,7 @@ print(notas_finais1)
 def somar(a, b):
     return a + b
 
-# Usando o reduce
+# Usando o reduce, o zero é o valor inicial
 total = reduce(somar, notas_finais, 0)
 print(total)
 
