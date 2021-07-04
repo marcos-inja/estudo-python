@@ -43,4 +43,5 @@
 # resultado = args.resultado_final(nome = 'Marcos', nota = 5)
 # print(resultado)
 
-from funcoes import funcional
+# from funcoes import funcional
+from funcoes import map_reduce
