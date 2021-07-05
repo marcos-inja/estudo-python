@@ -45,6 +45,7 @@
 
 # from funcoes import funcional
 # from funcoes import map_reduce
-from funcoes import lambdas_filter
+# from funcoes import lambdas_filter
+from funcoes import comprehension
 
 
