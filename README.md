@@ -20,6 +20,7 @@ Pode usar
 - Não se usa chaves para definir blocos e sim a identação
 - A nomeclatura das palavras em python é assim: nome_da_variavel
 - Dá pra colocar uma função dentro de uma váriavel
+- Usa `__` para definir um atributo como privado  
 
 ## Dicas
 - É mais desejável que a função retorne alguma coisa do que fazer um print dentro dela
