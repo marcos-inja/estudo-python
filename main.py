@@ -48,5 +48,6 @@
 # from funcoes import lambdas_filter
 # from funcoes import comprehension
 
-from oo import produto
+# from oo import produto
+import oo.heranca
 
