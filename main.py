@@ -49,5 +49,6 @@
 # from funcoes import comprehension
 
 # from oo import produto
-import oo.heranca
+# import oo.heranca
+import oo.membros
 
